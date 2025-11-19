@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// navid 
 class Node {
 public:
     int data;
